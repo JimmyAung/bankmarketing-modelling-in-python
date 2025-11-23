@@ -20,6 +20,17 @@ The dataset is imbalanced (~11% subscribed). Reweighting (`class_weight='balance
 - `data/` → `README.md` (no raw data committed)  
 - `requirements.txt`, `LICENSE`, `README.md`
 
+## Dataset
+
+Source: [UCI Machine Learning Repository — Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+
+**Citation:**  
+Moro, S., Cortez, P., & Rita, P. (2014). A data-driven approach to predict the success of bank telemarketing. *Decision Support Systems, 62*, 22–31.
+
+**Files used (locally, not committed):**  
+`bank-full.csv` (or a subset). Place the CSV(s) in `data/` before running the notebook.
+
+
 
 ## Reproduce Locally
 ```bash
