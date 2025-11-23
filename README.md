@@ -1,7 +1,7 @@
 # Bank Marketing — Modelling in Python
 
 <p align="center">
-  <img src="reports/BankMarketing_lab_overview.png" alt="Model comparison overview" width="720">
+  <img src="reports/BankMarketing_Lab_overview.png" alt="Model comparison overview" width="720">
 </p>
 
 Binary classification on the Portuguese bank marketing dataset. I built and compared **Logistic Regression (baseline)** vs **Weighted Logistic Regression** with simple, interpretable features. The weighted model significantly improved recall on the minority class (term-deposit **Yes**).
